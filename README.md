@@ -1,6 +1,6 @@
- Introduction to working with D3.js
+Introduction to Data Visualization with D3.js
 ===============
 
-[SFHTML5 All About D3 with Aysegul Yonet, Ali Almossawi, and Elijah Meeks](http://www.meetup.com/sfhtml5/events/219966838/) Meetup, August 2015.
+[Silicon Valley CodeCamp](https://www.siliconvalley-codecamp.com/Session/2015/introduction-to-data-visualization-with-d3js) - October 2015.
 
-Slides : [bit.ly/sfhtml5-d3](http://bit.ly/sfhtml5-d3).
+Slides : [bit.ly/svcc-d3](http://bit.ly/svcc-d3).
